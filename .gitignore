@@ -1,0 +1,4 @@
+.venv/
+.python-version
+eda-checkpoint.ipynb
+__pycache__
